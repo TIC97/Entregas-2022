@@ -11,10 +11,6 @@ function numberUser(min, max){
     return Math.floor(Math.random() * (max - min) + min);
 };
 
-console.log("holaaa")
-console.log("que onda");
-
-
 
 const datosUsuarios = [];
 
